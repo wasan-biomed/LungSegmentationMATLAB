@@ -64,3 +64,16 @@ LungSegmentationMATLAB/
 - استخدام `activecontour` أو `regionprops` لعزل أدق
 - العمل على ملفات DICOM بدل الصور العادية
 - دمج هذا المشروع مع شبكة CNN للتشخيص التلقائي
+## 🖼️ مقارنة النتائج
+
+### الصورة الأصلية (رمادية):
+![original](segmented_images/original_gray.png)
+
+### الصورة بعد تحسين التباين:
+![contrast](segmented_images/enhanced_contrast.png)
+
+### نتيجة التقسيم:
+![segmented](segmented_images/lung_segmented.png)
+
+### الصورة المجمعة للمقارنة:
+![comparison](Results/comparison.png)
