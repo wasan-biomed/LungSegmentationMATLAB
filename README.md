@@ -1,7 +1,7 @@
 # 🫁 Lung Segmentation from Chest X-ray using MATLAB
 
 🌐 **Select Language:**  
-[🇺🇸 English](README.md) | [🇩🇪 Deutsch](README_DE.md) | [🇸🇦 العربية](README_AR.md)
+[🇩🇪 Deutsch](README_DE.md) | [🇸🇦 العربية](README_AR.md)
 
 ---
 
@@ -89,6 +89,5 @@ This segmentation process helps:
 
 - Use `activecontour` or `regionprops` for more accurate lung boundaries
 - Work with DICOM medical formats directly
-- Integrate with CNN-based diagnostic models for classification
-🌐 **اختيار اللغة:** 
- [🇩🇪 Deutsch](README_DE.md) | [🇸🇦 العربية](README_AR.md)
+- Integrate with CNN-based diagnostic models for classification 
+
