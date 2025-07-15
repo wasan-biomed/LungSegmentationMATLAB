@@ -37,6 +37,20 @@ LungSegmentationMATLAB/
 7. Ergebnisse anzeigen und speichern
 
 ---
+## 📸 Beispielbilder
+
+### Originalbild in Graustufen
+![Graustufenbild](segmented_images/original_gray.png)
+
+### Kontrastverstärktes Bild
+![Kontrasterhöhung](segmented_images/enhanced_contrast.png)
+
+### Segmentierte Lunge
+![Segmentierung](segmented_images/lung_segmented.png)
+
+### Vergleich (Vorher-Nachher)
+![Vergleich](Results/comparison.png)
+
 
 ## 🧠 Medizinischer Nutzen:
 
