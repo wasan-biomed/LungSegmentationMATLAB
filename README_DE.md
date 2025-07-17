@@ -1,11 +1,11 @@
 # 🫁 Lungen-Segmentierung aus Thorax-Röntgenbild mit MATLAB
 
-🌐 **Sprache wählen:**  
+ **Sprache wählen:**  
 [🇺🇸 Englisch](README.md) | [🇸🇦 Arabisch](README_AR.md)
 
 ---
 
-## 📌 Übersicht
+## Übersicht
 
 Dieses Projekt demonstriert, wie man mit einem einfachen Thresholding-Algorithmus in MATLAB die Lunge aus einem Thorax-Röntgenbild segmentiert.
 
@@ -19,7 +19,7 @@ Die folgenden Schritte werden durchgeführt:
 
 ---
 
-## 📂 Projektstruktur
+##  Projektstruktur
 
 LungSegmentationMATLAB/  
 ├── README.md  
@@ -34,7 +34,7 @@ LungSegmentationMATLAB/
 
 ---
 
-## 🧠 Durchgeführte Schritte
+##  Durchgeführte Schritte
 
 1. Röntgenbild einlesen  
 2. In Graustufen umwandeln (falls nötig)  
@@ -46,7 +46,7 @@ LungSegmentationMATLAB/
 
 ---
 
-## 🖼️ Ergebnisvorschau
+##  Ergebnisvorschau
 
 ### Originalbild in Graustufen:
 ![original](original_gray.png)
@@ -62,7 +62,7 @@ LungSegmentationMATLAB/
 
 ---
 
-## 🏥 Medizinischer Nutzen
+##  Medizinischer Nutzen
 
 Diese Segmentierung hilft:
 - Die visuelle Klarheit für Ärzte zu verbessern  
@@ -72,7 +72,7 @@ Diese Segmentierung hilft:
 
 ---
 
-## 🧠 Angewandte Kenntnisse
+##  Angewandte Kenntnisse
 
 - MATLAB  
 - Bildkontrasterhöhung  
@@ -82,7 +82,7 @@ Diese Segmentierung hilft:
 
 ---
 
-## ✅ Mögliche Verbesserungen
+##  Mögliche Verbesserungen
 
 - Verwendung von `activecontour` oder `regionprops` für präzisere Lungenränder  
 - Direkte Verarbeitung von DICOM-Bildern  
