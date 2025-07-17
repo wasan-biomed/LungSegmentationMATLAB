@@ -1,11 +1,11 @@
 # 🫁 Lung Segmentation from Chest X-ray using MATLAB
 
-🌐 **Select Language:**  
+ **Select Language:**  
 [🇩🇪 Deutsch](README_DE.md) | [🇸🇦 العربية](README_AR.md)
 
 ---
 
-## 📌 Overview
+##  Overview
 
 This project demonstrates how to segment lungs from a chest X-ray image using a simple thresholding algorithm in MATLAB.
 
@@ -19,7 +19,7 @@ It includes the following steps:
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 
 LungSegmentationMATLAB/
@@ -36,7 +36,7 @@ LungSegmentationMATLAB/
 
 ---
 
-## 🧠 Steps Performed
+##  Steps Performed
 
 1. Read the chest X-ray image.
 2. Convert it to grayscale if needed.
@@ -49,7 +49,7 @@ LungSegmentationMATLAB/
 
 ---
 
-## 🖼️ Results Preview
+##  Results Preview
 
 ### Original grayscale image:
 ![original](original_gray.png)
@@ -65,7 +65,7 @@ LungSegmentationMATLAB/
 
 ---
 
-## 🏥 Medical Value
+##  Medical Value
 
 This segmentation process helps:
 - Improve visual clarity for physicians
@@ -75,7 +75,7 @@ This segmentation process helps:
 
 ---
 
-## 🧠 Skills Applied
+##  Skills Applied
 
 - MATLAB
 - Image contrast enhancement
@@ -85,7 +85,7 @@ This segmentation process helps:
 
 ---
 
-## ✅ Ready for Future Improvements
+##  Ready for Future Improvements
 
 - Use `activecontour` or `regionprops` for more accurate lung boundaries
 - Work with DICOM medical formats directly
